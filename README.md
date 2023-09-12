@@ -1,6 +1,5 @@
-# Hola👋
-## Como vas?
-### Hace tiempo nose de ti...
+# REPOSITORIO PERSONAL 🤵‍♂️
+![Alt](https://besthqwallpapers.com/Uploads/11-10-2018/68624/thumb2-4k-new-york-night-empire-state-building-cityscapes.jpg)
 <!--
 **Julian100j/Julian100j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
