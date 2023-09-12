@@ -1,8 +1,14 @@
 # Repositorio Personal / Julian Ceballos 🤵‍♂️
 ![Alt](https://global-uploads.webflow.com/62cedc1395c80f1b5caa8dc2/649de608fa78ae2188683305_Why%20Can%27t%20I%20Relax%20Email.jpg)
-- [x] Acabar el repositorio
-- [ ] Añadir codigo
-- [ ] Presentarlo
+
+- 🔭 I’m currently studing on Universidad Mariana
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on a proyect of my University
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **Julian100j/Julian100j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
