@@ -3,7 +3,7 @@
 
 - Hi my name is Julian Andres Ceballos Eraso 😄
 - I have 17 years old 🧑
-- 🔭 I’m currently studing on Universidad Mariana
+- I’m currently studing on Universidad Mariana 🔭 
 
 <!--
 **Julian100j/Julian100j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
