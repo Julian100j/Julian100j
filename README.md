@@ -1,5 +1,5 @@
  # Personal Repository / Julian Ceballos 🤵‍♂️
-![Alt](https://global-uploads.webflow.com/62cedc1395c80f1b5caa8dc2/649de608fa78ae2188683305_Why%20Can%27t%20I%20Relax%20Email.jpg)
+![Alt](https://www.mejorconweb.com/images/programacion-web-barcelona.jpg)
 
 # 💫 About Me:
  Hi my name is Julian Andres Ceballos Eraso 😁<br>- I have 17 years old 🧑<br>- I’m currently studing on Universidad Mariana 🔭
