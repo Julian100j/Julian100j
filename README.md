@@ -22,7 +22,7 @@
 
 
 
-Este proyecto consiste en 
+Este proyecto consiste en realizar un menu en el cual al usuaio se le permita en escojer  
 
 ## Empezando
 
@@ -90,7 +90,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* **Gustavo Sánchez** 
+Julian Andres Ceballos Eraso,Nicolas Santiago Maya y Santiago Luna
 
 
 ## Licencia
