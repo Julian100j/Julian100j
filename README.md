@@ -23,14 +23,91 @@
 <!--
 **Julian100j/Julian100j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Apo2
+![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Proyecto Java 
+
+Este proyecto consiste en 
+
+## Empezando
+
+instrucciones 
+
+### Requisitos previos
+
+Para poder tenr acceso al rpoyecto se necesita como primer paso instalar el editor de codigo "Eclipse", 
+Link paguina eclipse:
+
+```
+https://eclipseide.org/
+```
+
+### Instalación
+
+
+
+```
+https://eclipseide.org/
+```
+
+Y repetir
+
+```
+until finished
+```
+
+Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
+
+## Ejecutando las pruebas
+
+Explicar cómo ejecutar las pruebas automatizadas para este sistema.
+
+### Dividir en pruebas de principio a fin
+
+Explique qué prueban estas pruebas y por qué.
+
+```
+Give an example
+```
+
+### Y pruebas de estilo de codificación.
+
+Explique qué prueban estas pruebas y por qué.
+
+```
+Give an example
+```
+
+## Despliegue (Deployment)
+
+Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
+
+
+## Construido con
+
+Dropwizard : el marco web utilizado
+Maven - Gestión de dependencias
+ROMA : se utiliza para generar canales RSS
+
+## Versionado
+
+Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
+
+## Autores
+
+* **Gustavo Sánchez** 
+
+
+## Licencia
+
+Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
+
+## Expresiones de gratitud (Acknowledgments)
+
+* Un consejo para cualquiera cuyo código se haya utilizado
+* Inspiración
+* etc
+
+
+
