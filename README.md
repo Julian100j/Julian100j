@@ -22,7 +22,7 @@
 
 
 
-Este proyecto consiste en realizar un menu en el cual al usuaio se le permita en escojer  
+Este proyecto consiste en realizar un menu en el cual al usuario se le permita en escojer una opcion por medio de un menu (1.Para 
 
 ## Empezando
 
