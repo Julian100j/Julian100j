@@ -2,7 +2,7 @@
 ![Alt](https://www.mejorconweb.com/images/programacion-web-barcelona.jpg)
 
 # 💫 About Me:
- Hi my name is Julian Andres Ceballos Eraso 😁<br>- I have 18 years old 🧑<br>- I’m currently studing on Universidad Mariana 🔭
+ Hi my name is Julian Andres Ceballos Eraso 😁<br>- I have 19 years old 🧑<br>- I’m currently studing on Universidad Mariana 🔭
 
 
 # 💻 Tech Stack:
