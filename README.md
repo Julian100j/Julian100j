@@ -1,4 +1,4 @@
- # Julian Ceballos / Estdiante Ingeneria de Sistemas 🤵‍♂️
+ # Julian Andres Ceballos Eraso / Estudiante Ingeniería de Sistemas 💻
 ![Alt](https://www.mejorconweb.com/images/programacion-web-barcelona.jpg)
 
 # 💫 About Me:
