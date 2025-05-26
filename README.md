@@ -1,4 +1,4 @@
- # Personal Repository / Julian Ceballos 🤵‍♂️
+ # Julian Ceballos / Estdiante Ingeneria de Sistemas 🤵‍♂️
 ![Alt](https://www.mejorconweb.com/images/programacion-web-barcelona.jpg)
 
 # 💫 About Me:
