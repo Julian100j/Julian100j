@@ -18,7 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Julian100j&icon=0&color=0)](https://visitcount.itsvg.in)
 # Mis proyectos
-![Alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.enter.co%2Fempresas%2Fnegocios%2Fquiere-saber-si-la-programacion-podria-ser-su-camino-profesional%2F&psig=AOvVaw04SEEpqZq-2t3eGNrxIf_3&ust=1748388699588000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCMtqmlwo0DFQAAAAAdAAAAABBq)
+![Alt](https://codelearn.es/wp-content/uploads/sites/4/2019/09/lenguajes.jpg)
 
 
 
